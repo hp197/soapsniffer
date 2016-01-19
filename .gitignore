@@ -1,0 +1,58 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+# libtool
+aclocal.m4
+m4/
+autom4te.cache/
+ltmain.sh
+install-sh
+missing
+depcomp
+libtool
+
+# autoconf
+configure
+config.guess
+config.status
+config.sub
+config.log
+src/config.h
+src/config.h.in
+
+#automake
+Makefile.in
+Makefile
+src/stamp-h1
+src/.deps
+
